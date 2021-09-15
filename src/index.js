@@ -5,6 +5,8 @@ import 'bootstrap/dist/js/bootstrap.bundle.min';
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
+import "bootstrap-icons/font/bootstrap-icons.css";
+
 import App from './components/App/App';
 
 ReactDOM.render(
